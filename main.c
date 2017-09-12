@@ -2,7 +2,7 @@
 #include <memory.h>
 #include <stdbool.h>
 
-int main(int argc, char *argv[20]) {
+int main(int argc, char *argv[20]) { 
     int a, b;
     char arrayChar[20];
     int charInt[20];
